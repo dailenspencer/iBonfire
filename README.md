@@ -31,7 +31,7 @@
 8. Code!
 9. Commit changes and make a pull request
 
-### Front-end -- Mike/Sean**
+### Front-end -- Mike/Sean/Dailen
 
 #### Client-Side Application Structure
 //Provide a brief explanation of file structure.
@@ -210,4 +210,5 @@ We used MySQL with Knex for our database. MySQL was used because of its ease of 
 ### The Developers
 
 * [Ryan Morris](https://github.com/SPCMorris)
+* [Dailen Spencer](https://github.com/dailenspencer)
 // Fill in your names and github like mine above
